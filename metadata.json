@@ -1,0 +1,5 @@
+{
+  "name": "Kid Books AI",
+  "description": "A children's book generator that creates illustrated stories using Gemini 2.5 Flash. Features specific support for creating a 15-page history of the New England Patriots with AI-generated text and illustrations, plus image editing capabilities.",
+  "requestFramePermissions": []
+}
